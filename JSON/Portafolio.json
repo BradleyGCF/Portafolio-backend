@@ -2,11 +2,13 @@
     {
         "name":"Wheater App",
         "description":"Search for a city located anywhere in the world and let the app display a card with its current weather information. With varying images and information according to the data brought by Open Weather API, this was one of my first apps, and recently got a little CSS update!",
-        "link": ""
+        "link": "",
+        "image":"aun no la tengo xd"
     },
     {
         "name": "Pokemon App",
         "description":"mmmm",
-        "link":""
+        "link":"",
+        "image": "aun no la tengo xd"
     }
 ]
