@@ -13,7 +13,8 @@ const portafolio = require("./JSON/Portafolio.json");
 
 app.get("/", (req, res) => {
     res.send("Amigo functions")
-})
+});
+
 app.get('/about', (req, res) => {
     res.json(about)
 });
