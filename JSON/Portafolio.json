@@ -10,5 +10,11 @@
         "description":"mmmm",
         "link":"",
         "image": "https://i.ibb.co/Qp5Y5sx/brad-jpgff.jpg"
+    },
+    {
+        "name": "Portfolio Backend",
+        "description":"Search for a city located anywhere in the world and let the app display a card with its current weather information. With varying images and information according to the data brought by Open Weather API, this was one of my first apps, and recently got a little CSS update!",
+        "link":"",
+        "image": "https://i.ibb.co/Qp5Y5sx/brad-jpgff.jpg"
     }
 ]
